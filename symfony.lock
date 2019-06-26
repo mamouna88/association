@@ -168,6 +168,9 @@
             "./phpcs.xml.dist"
         ]
     },
+    "stripe/stripe-php": {
+        "version": "v6.38.0"
+    },
     "swiftmailer/swiftmailer": {
         "version": "v6.2.1"
     },
